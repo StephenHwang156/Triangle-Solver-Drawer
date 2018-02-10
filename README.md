@@ -5,6 +5,3 @@ Uses the tkinter library to draw the triangle on a canvas.
 
 # Usage
 With Python installed, run triangle.py.
-
-Note:
-Made in gr. 11
